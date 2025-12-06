@@ -1,52 +1,68 @@
-👋 Hi, I'm George Ohemeng 
+# 👋 Hi, I'm  George Ohemeng
 
- 📊 Business Intelligence Analyst | Power BI • Excel • SQL
+📌 🇨🇿 Based in Czech Republic (Open to remote & EU opportunities)
 
-Insight‑driven BI Analyst focused on delivering clear, actionable insights for **Supply Chain, Logistics, and Retail Operations. Passionate about solving problems, improving performance, and turning data into smarter decisions.
+### 📊 Business Intelligence Analyst | Power BI • Excel • SQL
 
-🚀 Core Skills & Tools
+Insight‑driven BI Analyst focused on delivering clear, actionable insights for **Supply Chain, Logistics, and Retail Operations**. Passionate about solving problems, improving performance, and turning data into smarter decisions.
 
-Business Intelligence**
+---
 
-Power BI (DAX, Data Modeling, KPIs, Automation)
-SQL (Queries, Joins, Optimization & Stored Procedures)
- Excel (Power Query, PivotTables, Dashboard Automation)
+## 🚀 Core Skills & Tools
 
-Data Management & Analytics
+**Business Intelligence**
 
- Data Cleaning & Quality Assurance
- ETL / Data Transformation
- Performance Tracking & Reporting
- Data Storytelling for Supply Chain stakeholders
+* Power BI (DAX, Data Modeling, KPIs, Automation)
+* Excel (PivotTables, Power Query, Dashboard Automation)
+* SQL (Queries, Joins, Optimization & Stored Procedures)
 
-Professional Skills
+**Data Analytics & Management**
 
- Effective Communication
- Collaboration in Agile environments
+* KPI performance tracking & insights
+* ETL / Data Transformation
+* Data Cleaning & Quality Assurance
+* Data storytelling for supply chain stakeholders
 
-- 📂 Highlight Projects
+**Professional Skills**
 
-📦 Supply Chain KPI Dashboard
+* Effective Communication
+* Collaboration in Agile environments
+
+---
+
+## 📂 Highlight Projects
+
+📦 **Supply Chain KPI Dashboard**
 Performance insights across delivery, cost, and productivity 📊
-🔗 [https://github.com/Data-ctrl-king/powerbi-supply-chain-kpi-dashboard]
-(https://github.com/Data-ctrl-king/powerbi-supply-chain-kpi-dashboard)
+🔗 [https://github.com/Data-ctrl-king/powerbi-supply-chain-kpi-dashboard](https://github.com/Data-ctrl-king/powerbi-supply-chain-kpi-dashboard)
 
 🚧 More BI portfolio projects coming soon:
 
-Logistics Cost Optimization (SQL + Power BI)
-Market Demand Forecasting (Excel)
+* Logistics Cost Optimization (SQL + Power BI)
+* Market Demand Forecasting (Excel)
 
+---
 
+## 🌱 Currently Building
 
- 🌱 Currently Building
+* More interactive dashboards in Power BI
+* Stronger SQL data modeling for analytics
+* Advanced data storytelling
 
- More interactive dashboards in Power BI
- Stronger SQL data modeling for analytics
- Advanced data storytelling
+---
 
+## 📈 GitHub Stats
 
-📫 Contact
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Data-ctrl-king\&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-ctrl-king\&layout=compact)
 
-Email: [georgeohe6@gmail.com](mailto:georgeohe6@gmail.com)
+---
 
-Thanks for stopping by.more BI & Supply Chain analytics projects coming soon 🚀📊
+## 📫 Contact
+
+📧 **Email:** [georgeohe6@gmail.com](mailto:georgeohe6@gmail.com)
+
+---
+
+Thanks for stopping by — more BI & Supply Chain analytics projects coming soon 🚀📊
+
