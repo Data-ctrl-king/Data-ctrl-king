@@ -28,7 +28,8 @@ Professional Skills
 
 📦 Supply Chain KPI Dashboard
 Performance insights across delivery, cost, and productivity 📊
-🔗 [https://github.com/Data-ctrl-king/powerbi-supply-chain-kpi-dashboard](https://github.com/Data-ctrl-king/powerbi-supply-chain-kpi-dashboard)
+🔗 [https://github.com/Data-ctrl-king/powerbi-supply-chain-kpi-dashboard]
+(https://github.com/Data-ctrl-king/powerbi-supply-chain-kpi-dashboard)
 
 🚧 More BI portfolio projects coming soon:
 
