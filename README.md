@@ -1,4 +1,4 @@
-# 👋 Hi, I'm George Ohemeng
+# 👋 Hi, I'm **George Ohemeng**
 📌 🇨🇿 Based in Czech Republic — Open to Remote & EU Opportunities  
 
 ### 📊 Business Intelligence Analyst | Power BI • Excel • SQL
