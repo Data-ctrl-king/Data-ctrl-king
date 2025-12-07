@@ -2,7 +2,7 @@
 
 📍 Based in the Czech Republic — Open to Remote & EU Opportunities  
 📊 Business Intelligence Analyst | Power BI • Excel • SQL  
-📫 Email: [georgeohe6@gmail.com]  
+📫 Email: georgeohe6@gmail.com  
 
 Insight-driven BI Analyst focused on delivering clear, actionable insights for **Supply Chain**, **Logistics**, and **Retail Operations**.  
 Passionate about solving problems, improving performance, and turning data into smarter decisions.
