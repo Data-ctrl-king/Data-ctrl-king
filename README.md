@@ -9,12 +9,19 @@ Passionate about solving problems, improving performance, and turning data into 
 
 ---
 
-## 🚀 Core Skills & Tools
+## 🚀 Core Skills 
+Power BI (DAX, M),Data Modelling, KPI Dashboards
+Reporting Automation , SQL, ETL workflows
+Business KPIs, Data Quality Monitoring,Power Platform
+Excel (Advanced), Python (Basic) ,SQL (Foundation), dbt (Learning)
+Stakeholder Collaboration, Problem-Solving, Communication,
+Agile Methods 
 
-### 🧩 Business Intelligence & Reporting
-- Power BI — DAX, Data Modeling, KPI Dashboards, Automation  
-- Excel — PivotTables, Power Query, Dashboard Design  
-- SQL — Queries, Joins, Stored Procedures, Performance Optimization  
+  ## Tool's 
+  🧩 - Power BI — DAX, Data Modeling, KPI Dashboards, Automation  
+ - Excel — PivotTables, Power Query, Dashboard Design  
+- SQL — Queries, Joins, Stored Procedures, Performance Optimization
+
 
 ### 📊 Data Analytics & Management
 - KPI Performance Tracking & Insight Delivery  
